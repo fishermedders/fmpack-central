@@ -1,6 +1,7 @@
 {
     "verified": [
         "fishermedders/fmpack-test-package",
+        "fishermedders/worm",
         "Pyroxenium/Basalt"
     ]
 }
